@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/8d0b6cc6d26fed3a6596b7d4ff2054f2235895a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_836fb52b7a681fa0d14a7c3e44dbeccfeaf240eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_44cf8ff3030ca3225ae1ac2c34c8c99179366eba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/f6150d5f26adbd428f598a91e13425b5f731aae0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfd8d2eefd525bd8430314cf3ffcc78313dc1663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/d512ee5cb2eb9d37ed77139eae6628cc2b772537/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cc309649b226055ed7d2568fad8c2697241032c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/2ad02c1f1ec2d32154f9d834492a21f4215e5b2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdf1957f114a8330085788fbd9b3dce1f43fb221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="96f8c9279115ec99286ec52898eada721825e0d5">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_501dc3759e6030dc06fbb875fd2014422b1fe286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/a27808b65ac5821c40883c5b673c86484f479aac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56d47643597532be3514f66b15d0bb57c56c809b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_da9a2c3854c38be4225eb61b9cb92d767e876536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbafeeb9cefb62b4aa868f9d1a7b94ae9bed53f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/453638ec36c37162279c1070172da0bca0c31555/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_176a24eef7549f6c71f49835447172c3af7ccfb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/38209264707f4cad63364f0010714778e94ce80b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bccae186f3074501419382581d4757aa43014bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/5ba91bcd33abcc1229811d6cefd1e8e8542753ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c5e1095914207f687090823b3714063300223b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/864642d3d05b9c295917155b83b918026cd6f420/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71925237700da39257639c0ffd1753aa0a6b0608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JAICHANGPARK/.android/build-cache/28a088947e40668168dbfe2afbf90e4167940164/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/JAICHANGPARK/AndroidStudioProjects/SensorFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bc4938c720fdecdfadc5a273f9d17a9c6a3d960/classes.dex" />
+    </item>
+
+</items>
